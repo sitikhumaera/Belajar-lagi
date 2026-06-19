@@ -2,8 +2,10 @@
     padding: 10px;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
 }
 .p{
     color: #000;
     margin-bottom: auto;
+    font-family: 'Times New Roman', Times, serif;
 }
